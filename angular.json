@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "socialapp"
+    }
+  },
+  "defaultProject": "socialapp",
+  "cli": {
+    "analytics": "ec37c6a7-6560-4bf4-a50e-5a9bd9d28ceb"
+  }
 }
